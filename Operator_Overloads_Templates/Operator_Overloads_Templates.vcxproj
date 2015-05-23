@@ -78,7 +78,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\..\..\..\Desktop\Mtshalis Vault\Third Year\Computer methods 3\FractionCode\FractionCode\Fraction.cpp" />
     <ClCompile Include="Operator_Overload_Template.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\..\Desktop\Mtshalis Vault\Third Year\Computer methods 3\FractionCode\FractionCode\Fraction.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
